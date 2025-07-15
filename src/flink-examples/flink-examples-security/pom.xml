@@ -27,22 +27,22 @@
         <kafka.version>3.6.1-h0.cbu.mrs.350.r11</kafka.version>
     </properties>
     <modules>
-        <module>FlinkCheckpointJavaExample</module>
-        <module>FlinkCheckpointScalaExample</module>
-        <module>FlinkConfigtableJavaExample</module>
-        <module>FlinkConfigtableScalaExample</module>
-        <module>FlinkHBaseJavaExample</module>
-        <module>FlinkKafkaJavaExample</module>
-        <module>FlinkKafkaScalaExample</module>
-        <module>FlinkPipelineJavaExample</module>
-        <module>FlinkPipelineScalaExample</module>
+<!--        <module>FlinkCheckpointJavaExample</module>-->
+<!--        <module>FlinkCheckpointScalaExample</module>-->
+<!--        <module>FlinkConfigtableJavaExample</module>-->
+<!--        <module>FlinkConfigtableScalaExample</module>-->
+<!--        <module>FlinkHBaseJavaExample</module>-->
+<!--        <module>FlinkKafkaJavaExample</module>-->
+<!--        <module>FlinkKafkaScalaExample</module>-->
+<!--        <module>FlinkPipelineJavaExample</module>-->
+<!--        <module>FlinkPipelineScalaExample</module>-->
         <module>FlinkRESTAPIJavaExample</module>
-        <module>FlinkSqlJavaExample</module>
-        <module>FlinkStreamJavaExample</module>
-        <module>FlinkStreamScalaExample</module>
-        <module>FlinkStreamSqlJoinExample</module>
-        <module>FlinkStreamSqlJoinScalaExample</module>
-        <module>FlinkHudiJavaExample</module>
+<!--        <module>FlinkSqlJavaExample</module>-->
+<!--        <module>FlinkStreamJavaExample</module>-->
+<!--        <module>FlinkStreamScalaExample</module>-->
+<!--        <module>FlinkStreamSqlJoinExample</module>-->
+<!--        <module>FlinkStreamSqlJoinScalaExample</module>-->
+<!--        <module>FlinkHudiJavaExample</module>-->
     </modules>
 
     <profiles>
